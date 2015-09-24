@@ -16,3 +16,8 @@ a commit.
 
 
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+You can only add to the staging area files relevant to that logical change.
+
