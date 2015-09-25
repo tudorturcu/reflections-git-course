@@ -21,3 +21,14 @@ change?
 
 You can only add to the staging area files relevant to that logical change.
 
+
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+When testing a new, experimental feature or in a more general case, when you
+have multiple versions of the code. Branches would make switching between
+versions much faster and easier.
+
+
+
