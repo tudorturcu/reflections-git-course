@@ -39,3 +39,13 @@ They allow me to see each branch on a separate line, which is better than the
 
 
 
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+Merging two branches together makes a new commit which will be on the branch
+we made the merge on. The previous commits of the merged commit are both the
+last commit of the merged branch and the last commit of the brach we are
+performing the merge on.
+
+
+
