@@ -32,3 +32,10 @@ versions much faster and easier.
 
 
 
+How do the diagrams help you visualize the branch structure?
+
+They allow me to see each branch on a separate line, which is better than the
+"git log --graph --oneline branch1 branch2 branch3" equivalent.
+
+
+
