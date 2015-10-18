@@ -29,3 +29,15 @@ Describe the differences between forks, clones, and branches. When would you use
  - branch - when you want a separate thread of work, when implementing a new 
  feature or testing, building on existing commits instead of starting from
  scratch
+
+
+
+ What is the benefit of having a copy of the last known state of the remote 
+ stored locally?
+
+ - you can instantly know what you modified since you last pulled, without 
+ needing internet access. 
+ - it makes it easier to resolve conflicts by  fetching first and then merging
+ - you can delay merging and continue working on your local branch
+
+ 
