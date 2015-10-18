@@ -55,6 +55,3 @@ any harm done is a huge confidence booster.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 Every medium-big project.
-
-
-

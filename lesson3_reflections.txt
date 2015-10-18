@@ -40,4 +40,21 @@ Describe the differences between forks, clones, and branches. When would you use
  - it makes it easier to resolve conflicts by  fetching first and then merging
  - you can delay merging and continue working on your local branch
 
- 
+
+
+ How would you collaborate without using Git or GitHub? What would be easier, 
+ and what would be harder?
+
+ Without using Git:
+
+ - easier to work on one thread, less overhead
+
+ - harder to work on multiple threads
+ - harder to track changes
+ - harder to revert to a previous version
+ - harder to collaborate with others on a project
+ - harder to debug
+
+Without using GitHub
+
+- harder to collaborate with others (although not impossible)
