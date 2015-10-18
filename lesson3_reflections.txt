@@ -16,3 +16,16 @@ When you don't want to publish your changes, and group them to make more sense,
 rather then send them one at a time. 
 Also, maybe you are working on multiple branches and only want to push one of 
 them.
+
+
+
+Describe the differences between forks, clones, and branches. When would you use
+ one instead of another?
+
+ - forks - for copying repositories on GitHub; also helps with backlinks to the
+ original repo and makes it easier to suggest modifications
+ - clone - when cloning or copying repositories to your local computer, either
+ from a remote server or from a different location on your local computer
+ - branch - when you want a separate thread of work, when implementing a new 
+ feature or testing, building on existing commits instead of starting from
+ scratch
