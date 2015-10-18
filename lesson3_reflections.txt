@@ -58,3 +58,19 @@ Describe the differences between forks, clones, and branches. When would you use
 Without using GitHub
 
 - harder to collaborate with others (although not impossible)
+
+
+
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+
+You want to make changes in a separate branch when you are collaborating with
+others and adding a new feature. You want feedback on your work before it 
+becomes part of the master branch.
+
+You want to work directly in master when you are still in the early stages of
+developing a backbone of the project, but even then it might be a good idea 
+to first work and test features separteley. When you work alone, you may also 
+work directly in master since you know what changed and can revert to a previous
+commit without affecting anyone else. Still, you may also want to have a 
+"stable" version and test new features separately.
